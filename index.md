@@ -1,1 +1,0 @@
-![Logo](assets/logo.png)
